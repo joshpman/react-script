@@ -117,7 +117,7 @@ cat <<EOL >public/index.html
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="description" content="Basic ReactJS Webpage">
-  <title>Joshpman Webpage</title>
+  <title>My React Webpage :)</title>
 </head>
 <body>
   <div id="root"></div>
