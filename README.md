@@ -1,5 +1,5 @@
 # react-script
-Before reading, this script assumes you already have npm installed, if you do not please find a tutorial for that before attempting to use this
+Before reading, this script assumes you already have npm installed; if you do not, please find a tutorial for that before attempting to use this
 
 First-time Setup:
 
