@@ -1,8 +1,9 @@
 # react-script
 Before reading, this script assumes you already have npm installed, if you do not please find a tutorial for that before attempting to use this
 
-To setup:
-**All of the modifications inside your bin directory will most likely have to be run with sudo
+First-time Setup:
+
+Please note that all of the modifications inside your bin directory will most likely have to be run with sudo
 
 1. Copy this script into /usr/local/bin directory
 2. Go to your home directory and then edit .bashrc -- May also be .bash_profile or .zshrc depending on your setup
